@@ -1,34 +1,20 @@
 # React JS Landing Page Template
+https://github.com/issaafalkattan/react-landing-page-template
 
-**
-
-# 🛎️🛎️ Good news! New & improved [V2](https://github.com/issaafalkattan/react-landing-page-template-2021) is out  
-
-**
+https://react-landing-page-template.herokuapp.com
 
 
-### <a href="https://react-landing-page-template.herokuapp.com">LIVE DEMO</a> 
+1. [-] `yarn` , `yarn start` 
+2. [ ] Add your own data in the `data.json` file as well as add any images to `public/img/`
+3. [ ] Change styles by modifying the ``public/css` files.
+4. [ ] When you’re ready to deploy to production, running `npm run build` and upload the **build.zip** file to hosting control panel
 
-## Description
-This is a ReactJS based landing page template, fit for a startup company/service with a one page view. The design is inspired by a template from <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
-All 'visual' data can be easily modified by changing the data.json file.
+## CSS HEX 
+--oxford-blue: #0b2545ff;
+--persian-green: #05a598ff;
+--white: #ffffffff;
+--sonic-silver: #727272ff;
+--deep-cerise: #ef018dff;  on-hover: #f147ab
+https://coolors.co/0b2545-05a598-ffffff-727272-ef018d
 
-## Make it Yours!
-### 1. Preps
-You will need to have <a href="https://nodejs.org/">Node JS</a> installed on your pc. 
-
-### 2. Clone Files
-After cloning the files, you will have to run ```yarn``` followed by ```yarn start``` in the CLI
-### 3. Add your own data 
-Change the data in the ```data.json``` file as well as add any images to ```public/img/```
-You can also change styles by modifying the ```public/css``` files.
-
-
-## Like this project?
-<a href="https://www.buymeacoffee.com/issaaf">Buy my a coffee ☕️</a>
-
-## Credits
-##### Free CSS 
-<a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
-
-##### Issaaf kattan
+linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);

@@ -6,17 +6,18 @@ export const Header = (props) => {
           <div className='container'>
             <div className='row'>
               <div className='col-md-8 col-md-offset-2 intro-text'>
+                <img src="img/clublogo.svg" alt="Logo"/>
                 <h1>
-                  {props.data ? props.data.title : 'Loading'}
-                  <span></span>
+                  The Cheranalloor Club
                 </h1>
-                <p>{props.data ? props.data.paragraph : 'Loading'}</p>
+                <p><b>Reg.No: EKM/TC/120/2022</b></p>
+                <p><b>Motto: </b>Serving the mankind, serving the nature, is serving ourselves</p>
                 <a
-                  href='#features'
+                  href='#about'
                   className='btn btn-custom btn-lg page-scroll'
                 >
                   Learn More
-                </a>{' '}
+                </a>
               </div>
             </div>
           </div>
