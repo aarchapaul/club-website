@@ -44,6 +44,11 @@
       "job": "Joint Secretary/Web Master"
     }
   ],
+  "MemberList":[
+    { "name": "Anom", "age": 19, "phone": "+91 99473 35669" },
+    { "name": "Megha", "age": 19, "phone": "+91 99473 35669" },
+    { "name": "Subham", "age": 25, "phone": "+91 99473 35669"}
+  ],
   "Contact": {
     "address": "Cheranalloor (East) PO, Near Shiva Temple, Koovappady, Ernakulam District, Kerala, PIN:683544 ",
     "phone": "+91 99473 35669",
