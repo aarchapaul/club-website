@@ -24,7 +24,7 @@ export class Gallery extends Component {
         <div className='container'>
           <div className='section-title'>
             <h2>Gallery</h2>
-            <p>Photographs of Club Inaguration Ceremony</p>
+            {/*<p>Photographs of Club Inaguration Ceremony</p>*/}
           </div>
           <Slider {...settings}>
             <div>
