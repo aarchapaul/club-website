@@ -1,9 +1,9 @@
 
 export const MemberList = (props) => {
 return (
-	<div id="memberlist">
+	<div id="memberlist" className='text-center'>
         <div className="container">
-            <div >
+            <div className='col-md-8 col-md-offset-2 section-title'>
                 <h2>Member List</h2>
             </div>
             <div>

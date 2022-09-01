@@ -5,9 +5,9 @@ https://react-landing-page-template.herokuapp.com
 
 
 1. [-] `yarn` , `yarn start` 
-2. [ ] Add your own data in the `data.json` file as well as add any images to `public/img/`
-3. [ ] Change styles by modifying the ``public/css` files.
-4. [ ] When you’re ready to deploy to production, running `npm run build` and upload the **build.zip** file to hosting control panel
+2. [-] Add your own data in the `data.json` file as well as add any images to `public/img/`
+3. [-] Change styles by modifying the ``public/css` files.
+4. [-] When you’re ready to deploy to production, running `npm run build` and upload the **build.zip** file to hosting control panel
 
 ## CSS HEX 
 --oxford-blue: #0b2545ff;
