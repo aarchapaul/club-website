@@ -10,17 +10,19 @@ return (
                 <table className="table table-striped">
                     <thead>
                         <tr>
+                            <th scope="col">Sl. No.</th>
                             <th scope="col">Name</th>
-                            <th scope="col">Age</th>
-                            <th scope="col">Phone No.</th>
+                            <th scope="col">House name</th>
+                            <th scope="col">Place</th>
                         </tr>
                     </thead>
                     <tbody>
                     {props.data ? props.data.map((d, i) => (
                             <tr key={`${d.name}-${i}`}>
-                                <td scope="row">{d.name}</td>
-                                <td>{d.age}</td>
-                                <td>{d.phone}</td>
+                                <td scope="row">{d.no}</td>
+                                <td >{d.name}</td>
+                                <td>{d.surname}</td>
+                                <td>{d.place}</td>
                             </tr>
                         ))
                         : 'loading'}

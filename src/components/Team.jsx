@@ -3,7 +3,7 @@ export const Team = (props) => {
     <div id='team' className='text-center'>
       <div className='container'>
         <div className='col-md-8 col-md-offset-2 section-title'>
-          <h2>Executive Committee</h2>
+          <h2>Core Committee</h2>
           {/*<p>The following Core Committee Members and Governing Body Members were selected by the General Body Meeting.</p>*/}
         </div>
         <div id='row'>

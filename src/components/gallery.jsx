@@ -61,6 +61,36 @@ export class Gallery extends Component {
               <img src="https://i.ibb.co/zX9ZSkb/portfolio-10.jpg" alt="Loading"/>
             </div>
           </Slider>
+          {/*
+const JSON = {
+  Lillian: {
+    type: 'The Guardian',
+    portfolioImage: './img/TheGuardian/Lillian.png'
+  },
+  Annalise: {
+    type: 'TheGuardian',
+    portfolioImage: './img/TheGuardian/Annalise.png'
+  },
+  Raven: { type: 'DCComics', portfolioImage: './img/TheGuardian/Raven.png' }
+};
+
+class Example extends React.Component {
+  render() {
+    return (
+      <div>
+        {Object.keys(JSON).map(key => (
+          <div>
+            {JSON[key].type}
+            <img src={JSON[key].portfolioImage} key={key} />
+          </div>
+        ))}
+      </div>
+    );
+  }
+}
+
+ReactDOM.render(<Example />, document.getElementById('root')); 
+          */}
         </div>
       </div>
     );

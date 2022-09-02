@@ -20,38 +20,75 @@
   "Team": [
     {
       "img": "img/team/Jose Poonoly.jpg",
-      "name": "Jose Poonoly",
+      "no":1, "name": "Jose Poonoly",
       "job": "President"
     },
     {
       "img": "img/team/Alphy Peeter Poonoly.jpg",
-      "name": "Alphy Peeter Poonoly",
+      "no":1, "name": "Alphy Peeter Poonoly",
       "job": "Vice President"
     },
     {
       "img": "img/team/Shajan Steephen Attupuram.jpg",
-      "name": "Shajan Steephan Attupuram",
+      "no":1, "name": "Shajan Steephan Attupuram",
       "job": "Secretary"
     },
     {
       "img": "img/team/Palatty Varkey Poulose.jpg",
-      "name": "Palatty Varkey Poulose",
+      "no":1, "name": "Palatty Varkey Poulose",
       "job": "Treasurer"
     },
     {
       "img": "img/team/Baby Kozhukkatta.jpg",
-      "name": "Baby Poulose Kozhukkatta",
+      "no":1, "name": "Baby Poulose Kozhukkatta",
       "job": "Joint Secretary/Web Master"
     }
   ],
   "MemberList":[
-    { "name": "Anom", "age": 19, "phone": "+91 99473 35669" },
-    { "name": "Megha", "age": 19, "phone": "+91 99473 35669" },
-    { "name": "Subham", "age": 25, "phone": "+91 99473 35669"}
+    { "no":1, "name": "Ajay Kumar", "surname": "Velamkudy  House", "place": "Cheranalloor" },
+    { "no":2, "name": "Antu C.R.", "surname": "Chirayath House", "place": "Cheranalloor" },
+    { "no":3, "name": "Babu B.S.", "surname": "Blaye House", "place": "Cheranalloor"},
+    { "no":4, "name": "Baby A.S.", "surname": "Attupuram House", "place": "Cheranalloor"},
+    { "no":5, "name": "Bobby Varghese", "surname": "Menachery House", "place": "Neeleeswaram"},
+    { "no":6, "name": "Bijoy Korathu", "surname": "Attupuram House", "place": "Cheranalloor"},
+    { "no":7, "name": "Benny T.C.", "surname": "Thelakkadan House", "place": "Cheranalloor"},
+    { "no":8, "name": "Benny Chirayath", "surname": "Chirayath House", "place": "Thottuva"},
+    { "no":9, "name": "Biju Peter", "surname": "Manickathan House", "place": "Cheranalloor"},
+    { "no":10, "name": "Cleetus Alukka", "surname": "Alukka House", "place": "Cheranalloor"},
+    { "no":11, "name": "George Varghese", "surname": "Manickathan House", "place": "Cheranalloor"},
+    { "no":12, "name": "James K.P.", "surname": "Kozhukkatta House", "place": "Cheranalloor"},
+    { "no":13, "name": "Jitto Cheriyan", "surname": "Thelakkadan House", "place": "Cheranalloor"},
+    { "no":14, "name": "Jolly Paul", "surname": "Vallattumanickathan House", "place": "Cheranalloor"},
+    { "no":15, "name": "Jose Poonoly", "surname": "Poonoly House", "place": "Cheranalloor"},
+    { "no":16, "name": "Jose P.P.", "surname": "Pallickal House", "place": "Cheranalloor"},
+    { "no":17, "name": "Joseph C.U.", "surname": "Cherapparambil House", "place": "Cheranalloor"},
+    { "no":18, "name": "Joseph Varghese", "surname": "Pudussery House", "place": "Thottuva"},
+    { "no":19, "name": "Joshy Paul", "surname": "Pulickal House", "place": "Cheranalloor"},
+    { "no":20, "name": "Joshy V.N.", "surname": "Velamkudy  House", "place": "Cheranalloor"},
+    { "no":21, "name": "Lalu Paul", "surname": "Thelakkadan House", "place": "Cheranalloor"},
+    { "no":22, "name": "Louis C.P.", "surname": "Chittooparambil House", "place": "Cheranalloor"},
+    { "no":23, "name": "Palatty Thomas Joy", "surname": "Palatty House", "place": "Cheranalloor"},
+    { "no":24, "name": "Peter Poonoly", "surname": "Poonoly House", "place": "Cheranalloor"},
+    { "no":25, "name": "Palatty Varkey Poulose", "surname": "Palatty House", "place": "Kodanad"},
+    { "no":26, "name": "Polachan T.C.", "surname": "Manavalan House", "place": "Cheranalloor"},
+    { "no":27, "name": "Poly C.R.", "surname": "Chirayath House", "place": "Cheranalloor"},
+    { "no":28, "name": "Prince Antony", "surname": "Thelakkadan House", "place": "Cheranalloor"},
+    { "no":29, "name": "Prince Pallicka Xavier", "surname": "Pallickal House", "place": "Cheranalloor"},
+    { "no":30, "name": "B. Rajeesh", "surname": "Perinchery Puthenveedu", "place": "Koovappady"},
+    { "no":31, "name": "Saji George", "surname": "Chirayath House", "place": "Cheranalloor"},
+    { "no":32, "name": "Sebastian A.P.", "surname": "Alukka House", "place": "Cheranalloor"},
+    { "no":33, "name": "Shajan Steephan", "surname": "Attupuram House", "place": "Cheranalloor"},
+    { "no":34, "name": "Sijo Varghese", "surname": "Poovathumkudy House", "place": "Cheranalloor"},
+    { "no":35, "name": "Sudhan B.S.", "surname": "Blayi House", "place": "Thottuva"},
+    { "no":36, "name": "Thankachan Lambai", "surname": "Kurungadan House", "place": "Cheranalloor"},
+    { "no":37, "name": "Varghese M.D.", "surname": "Manickathan House", "place": "Cheranalloor"},
+    { "no":38, "name": "Varghese P.R.", "surname": "Poonoly House", "place": "Cheranalloor"},
+    { "no":39, "name": "Xavier M.S.", "surname": "Manickathan House", "place": "Cheranalloor"},
+    { "no":40, "name": "Xavier M.O.", "surname": "Mattekadan House", "place": "Cheranalloor"}
   ],
   "Contact": {
     "address": "Cheranalloor (East) PO, Near Shiva Temple, Koovappady, Ernakulam District, Kerala, PIN:683544 ",
-    "phone": "+91 99473 35669",
+    "place": "Cheranalloor",
     "email": "thecheranalloorclub@gmail.com",
     "facebook": "www.facebook.com",
     "twitter": "twitter.com",
