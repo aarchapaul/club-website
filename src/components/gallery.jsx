@@ -28,37 +28,61 @@ export class Gallery extends Component {
           </div>
           <Slider {...settings}>
             <div>
-              {/*<p className="portfolio-para">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> */}
-              <img src="https://i.ibb.co/zfSNx3S/about.jpg" alt="Loading" />
+              <img src="https://i.ibb.co/zfSNx3S/about.jpg" alt="Inaguration" />
             </div>
             <div>
-              <img src="https://i.ibb.co/zhdYWHW/about2.jpg" alt="Loading"/>
+              <img src="https://i.ibb.co/zhdYWHW/about2.jpg" alt="Inaguration"/>
             </div>
             <div>
-              <img src="https://i.ibb.co/HXfJLMd/about3.jpg" alt="Loading" />
+              <img src="https://i.ibb.co/HXfJLMd/about3.jpg" alt="Inaguration" />
             </div>
             <div>
-              <img src="https://i.ibb.co/KqCbT4p/portfolio-4.jpg" alt="Loading"/>
+              <img src="https://i.ibb.co/QnTS9T9/portfolio-4.jpg" alt="Inaguration"/>
+            </div> 
+            {/*<div>
+              <img src="https://i.ibb.co/GnT1NCY/portfolio-5.jpg" alt="Inaguration"/>
             </div>
             <div>
-              <img src="https://i.ibb.co/GnT1NCY/portfolio-5.jpg" alt="Loading"/>
+              <img src="https://i.ibb.co/tQZJPsd/portfolio-6.jpg" alt="Inaguration"/>
             </div>
             <div>
-              <img src="https://i.ibb.co/tQZJPsd/portfolio-6.jpg" alt="Loading"/>
+              <img src="https://i.ibb.co/W0fYcHg/portfolio-7.jpg" alt="Inaguration"/>
             </div>
             <div>
-              <img src="https://i.ibb.co/W0fYcHg/portfolio-7.jpg" alt="Loading"/>
+              <img src="https://i.ibb.co/zWd7Z0p/portfolio-8.jpg" alt="Inaguration"/>
             </div>
-            <div>
-              <img src="https://i.ibb.co/zWd7Z0p/portfolio-8.jpg" alt="Loading"/>
-            </div>
-            <div>
-              {/*<p className="portfolio-para">Rerum soluta corporis nostrum labore minima doloremque alias voluptate quos architecto debitis!</p>*/}
-              <img src="https://i.ibb.co/ypTBzWx/portfolio-9.jpg" alt="Loading"/>
-            </div>
+    */}
             <div>
               {/*<p className="portfolio-para">Rerum soluta corporis nostrum labore minima doloremque alias voluptate quos architecto debitis!</p>*/}
-              <img src="https://i.ibb.co/zX9ZSkb/portfolio-10.jpg" alt="Loading"/>
+              <img src="https://i.ibb.co/ypTBzWx/portfolio-9.jpg" alt="Inaguration"/>
+            </div>
+            <div>
+              <img src="https://i.ibb.co/zX9ZSkb/portfolio-10.jpg" alt="Inaguration"/>
+            </div>
+            
+            <div>
+              <img src="https://i.ibb.co/ZxbWzfF/Whats-App-Image-resized.jpg" alt="Onam Celebration" />
+            </div>
+            <div>
+              <img src="https://i.ibb.co/sgkNGKH/Whats-App-Image-2022-09-27-at-5-20-39-PM.jpg" alt="Onam Celebration 2022"/>
+            </div>
+            <div>
+              <img src="https://i.ibb.co/hM5PPyD/Whats-App-Image-2022-09-27-at-5-20-39-PM-1.jpg" alt="Onam Celebration 2022"/>
+            </div>
+            <div>
+              <img src="https://i.ibb.co/xMNL4jD/Whats-App-Image-2022-09-27-at-5-20-40-PM-1.jpg" alt="Onam Celebration 2022"/>
+            </div>
+            <div>
+              <img src="https://i.ibb.co/MCNT1jW/Whats-App-Image-2022-09-27-at-5-20-43-PM-2.jpg" alt="Onam Celebration 2022"/>
+            </div>
+            <div>
+              <img src="https://i.ibb.co/H7dpWbp/Whats-App-Image-2022-09-27-at-5-20-44-PM-1.jpg" alt="Onam Celebration 2022"/>
+            </div>
+            <div>
+              <img src="https://i.ibb.co/YXTBtPL/Whats-App-Image-2022-09-27-at-5-20-44-PM-2.jpg" alt="Onam Celebration 2022"/>
+            </div>
+            <div>
+              <img src="https://i.ibb.co/k3grN1D/Whats-App-Image-2022-09-27-at-5-20-46-PM.jpg" alt="Onam Celebration 2022"/>
             </div>
           </Slider>
           {/*
