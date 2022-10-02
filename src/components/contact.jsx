@@ -129,12 +129,12 @@ export const Contact = (props) => {
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.twitter : '/'}>
+                    <a href="https://www.twitter.com">
                       <i className='fa fa-twitter'></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.youtube : '/'}>
+                    <a href="www.youtube.com">
                       <i className='fa fa-youtube'></i>
                     </a>
                   </li>
